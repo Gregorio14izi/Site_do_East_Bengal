@@ -1,0 +1,31 @@
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRK_c_YN3WjsDY8lrL1aqze0Gh8piujtsag&s")center/cover;
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+form{
+    background: rgba(0,0,0,0.70);
+    border-radius: 10px;
+    padding: 40px;
+    width: 200px;
+    border-radius: 10px;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+input, button{
+    box-sizing: border-box;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+}
